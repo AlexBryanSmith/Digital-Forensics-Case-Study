@@ -1,5 +1,4 @@
 
-
 # Digital Forensics Investigative Plan
 
 ## Introduction
