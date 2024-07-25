@@ -1,6 +1,4 @@
-Here’s a draft README for your data forensics task based on the provided requirements:
 
----
 
 # Digital Forensics Investigative Plan
 
